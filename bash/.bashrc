@@ -118,8 +118,6 @@ fi
 # Created by `pipx` on 2025-06-20 04:57:27
 export PATH="$PATH:/home/meheraab/.local/bin"
 export AIDER_MODEL="o4-mini"
-export LLM_PROVIDER="openai"
-export LLM_MODEL="o4-mini"
 csup() {
   local num="$1"
   if [[ -z "$num" || ! "$num" =~ ^[0-9]+$ ]]; then

@@ -6,6 +6,7 @@ alias c="xclip"
 alias v="xclip -o"
 alias clip="xclip -selection clipboard"
 alias xx="xdg-open"
+alias key="echo $meh_dev|clip"
 
 # Notes Aliases
 alias ind="xdg-open index.md"
@@ -31,3 +32,4 @@ alias fuck='echo Fuck YOU!!!'
 alias E="xdg-open /home/meheraab/Downloads/delete/E.jpg;exit"
 alias garchomp="pokemon-colorscripts -n garchomp"
 alias gar="garchomp"
+alias fuckdir="/home/meheraab/Documents/Research-Lab/SIG_AI/MCP_enlight360/mcp_test/mcp_server/"
