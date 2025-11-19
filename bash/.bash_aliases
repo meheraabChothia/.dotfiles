@@ -8,6 +8,10 @@ alias clip="xclip -selection clipboard"
 alias xx="xdg-open"
 alias key="echo $meh_dev|clip"
 
+# Aider Aliases
+alias aider_claude="aider --model openrouter/anthropic/claude-sonnet-4.5 --dark-mode"
+alias aider="aider --dark-mode"
+
 # Notes Aliases
 alias ind="xdg-open index.md"
 alias index_updater="python index_updater.py"
