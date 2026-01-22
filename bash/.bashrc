@@ -133,7 +133,7 @@ export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 
 # Update PATH to include GOPATH and GOROOT binaries
-export PATH=$GOPATH/bin:$GOROOT/bin:$HOME/.local/bin:$PATH
+export PATH=$PATH:/usr/local/go/bin
 source ~/.bash_secrets
 source ~/.bash_aliases
 
@@ -148,3 +148,9 @@ export PATH=$ANDROID_HOME/platform-tools:$PATH
 export PATH=$ANDROID_HOME/emulator:$PATH
 
 set -o vi
+. "$HOME/.cargo/env"
+
+# opencode
+export PATH=/home/meheraab/.opencode/bin:$PATH
+
+complete -C /usr/bin/terraform terraform

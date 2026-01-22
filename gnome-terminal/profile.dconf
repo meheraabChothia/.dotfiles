@@ -1,0 +1,9 @@
+[/]
+background-color='#000000'
+background-transparency-percent=14
+foreground-color='rgb(56,235,255)'
+palette=['#000000', '#ec9346', '#74abbe', '#a4cee5', '#559ff1', '#e8b778', '#356a9c', '#b0c7d4', '#575b5b', '#ec9346', '#74abbe', '#a4cee5', '#559ff1', '#e8b778', '#356a9c', '#ffffff']
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='tron_attempt_1'

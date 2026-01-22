@@ -7,9 +7,10 @@ alias v="xclip -o"
 alias clip="xclip -selection clipboard"
 alias xx="xdg-open"
 alias key="echo $meh_dev|clip"
+alias rm='rm -i'
 
 # Aider Aliases
-alias aider_claude="aider --model openrouter/anthropic/claude-sonnet-4.5 --dark-mode"
+alias aider-claude="aider --model openrouter/anthropic/claude-opus-4.5 --dark-mode"
 alias aider="aider --dark-mode"
 
 # Notes Aliases
@@ -33,7 +34,10 @@ alias gay='python /home/meheraab/cool/cool.py'
 alias new_gay='python ~/new_cool/new_cool.py'
 alias dude="echo WHAT?!"
 alias fuck='echo Fuck YOU!!!'
+alias kms='echo die lmao'
 alias E="xdg-open /home/meheraab/Downloads/delete/E.jpg;exit"
 alias garchomp="pokemon-colorscripts -n garchomp"
 alias gar="garchomp"
-alias fuckdir="/home/meheraab/Documents/Research-Lab/SIG_AI/MCP_enlight360/mcp_test/mcp_server/"
+alias mcp_dir="echo '~/Documents/Research-Lab/SIG_AI/MCP_enlight360/' | clip"
+alias mcp-inspector="npx @modelcontextprotocol/inspector"
+alias minecraft='/home/meheraab/Downloads/delete/Minecraft/UltimMC-Launcher-Linux64/UltimMC/UltimMC.sh'
