@@ -1,0 +1,36 @@
+# font configs
+font-family="DepartureMono Nerd Font"
+font-size=12
+
+# background
+background-opacity=0.75
+background=#000000
+
+# foreground
+foreground=#38EBFF
+
+# cursor
+cursor-style=block
+cursor-style-blink=true
+cursor-click-to-move = true
+mouse-hide-while-typing = false
+
+# theme
+palette=0=#000000
+palette=1=#ec9346
+palette=2=#74abbe
+palette=3=#a4cee5
+palette=4=#559ff1
+palette=5=#e8b778
+palette=6=#356a9c
+palette=7=#b0c7d4
+palette=8=#575b5b
+palette=9=#ec9346
+palette=10=#74abbe
+palette=11=#a4cee5
+palette=12=#559ff1
+palette=13=#e8b778
+palette=14=#356a9c
+palette=15=#ffffff
+
+

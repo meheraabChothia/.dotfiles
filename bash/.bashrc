@@ -154,3 +154,4 @@ set -o vi
 export PATH=/home/meheraab/.opencode/bin:$PATH
 
 complete -C /usr/bin/terraform terraform
+export PATH="$HOME/.npm-global/bin:$PATH"
