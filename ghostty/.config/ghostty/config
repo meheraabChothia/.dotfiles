@@ -1,9 +1,10 @@
 # font configs
-font-family="DepartureMono Nerd Font"
+# font-family="DepartureMono Nerd Font"
+font-family="JetBrainsMonoNL NFM Regular"
 font-size=12
 
 # background
-background-opacity=0.75
+background-opacity=0.80
 background=#000000
 
 # foreground
