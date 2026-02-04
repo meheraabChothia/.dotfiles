@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mode": {
+    "plan": {
+      "model": "openrouter/anthropic/claude-opus-4.5"
+    }
+  },
+  "mode": {
+    "build": {
+      "model": "openrouter/anthropic/claude-haiku-4.5"
+    }
+  }
+}
