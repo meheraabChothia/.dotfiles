@@ -1,0 +1,205 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "theme": {
+    "primary": {
+      "dark": "none",
+      "light": "none"
+    },
+    "secondary": {
+      "dark": "none",
+      "light": "none"
+    },
+    "accent": {
+      "dark": "none",
+      "light": "none"
+    },
+    "error": {
+      "dark": "none",
+      "light": "none"
+    },
+    "warning": {
+      "dark": "none",
+      "light": "none"
+    },
+    "success": {
+      "dark": "none",
+      "light": "none"
+    },
+    "info": {
+      "dark": "none",
+      "light": "none"
+    },
+    "text": {
+      "dark": "none",
+      "light": "none"
+    },
+    "textMuted": {
+      "dark": "none",
+      "light": "none"
+    },
+    "background": {
+      "dark": "none",
+      "light": "none"
+    },
+    "backgroundPanel": {
+      "dark": "none",
+      "light": "none"
+    },
+    "backgroundElement": {
+      "dark": "none",
+      "light": "none"
+    },
+    "border": {
+      "dark": "none",
+      "light": "none"
+    },
+    "borderActive": {
+      "dark": "none",
+      "light": "none"
+    },
+    "borderSubtle": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffAdded": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffRemoved": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffContext": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffHunkHeader": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffHighlightAdded": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffHighlightRemoved": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffAddedBg": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffRemovedBg": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffContextBg": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffLineNumber": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "none",
+      "light": "none"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownText": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownHeading": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownLink": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownLinkText": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownCode": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownBlockQuote": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownEmph": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownStrong": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownHorizontalRule": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownListItem": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownListEnumeration": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownImage": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownImageText": {
+      "dark": "none",
+      "light": "none"
+    },
+    "markdownCodeBlock": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxComment": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxKeyword": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxFunction": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxVariable": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxString": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxNumber": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxType": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxOperator": {
+      "dark": "none",
+      "light": "none"
+    },
+    "syntaxPunctuation": {
+      "dark": "none",
+      "light": "none"
+    }
+  }
+}

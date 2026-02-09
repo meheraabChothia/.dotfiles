@@ -5,6 +5,7 @@ alias srbash="source ~/.bashrc"
 alias c="xclip"
 alias v="xclip -o"
 alias clip="xclip -selection clipboard"
+alias cwd="pwd|clip"
 alias xx="xdg-open"
 alias key="echo $meh_dev|clip"
 alias rm='rm -i'
