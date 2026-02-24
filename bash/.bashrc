@@ -155,3 +155,7 @@ export PATH=/home/meheraab/.opencode/bin:$PATH
 
 complete -C /usr/bin/terraform terraform
 export PATH="$HOME/.npm-global/bin:$PATH"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

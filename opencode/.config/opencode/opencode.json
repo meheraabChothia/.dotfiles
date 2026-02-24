@@ -1,13 +1,13 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "theme": "my-matrix",
-  "model": "openrouter/anthropic/claude-opus-4.6",
+  "theme": "my-new-matrix",
+  "model": "anthropic/claude-sonnet-4-6",
   "mode": {
     "plan": {
-      "model": "openrouter/anthropic/claude-opus-4.6"
+      "model": "anthropic/claude-sonnet-4-6"
     },
     "build": {
-      "model": "openrouter/anthropic/claude-haiku-4.5"
+      "model": "anthropic/claude-haiku-4-5"
     }
   },
   "plugin": [
