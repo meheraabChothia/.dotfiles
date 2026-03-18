@@ -17,12 +17,6 @@
       "url": "https://mcp.enlightcloud.com/mcp",
       "enabled": true,
     },
-    "enlight-test-mcp": {
-      // ...
-      "type": "remote",
-      "url": "https://mcp.enlightcloud.com/mcp",
-      "enabled": true,
-    },
   },
   "plugin": [
     // "oh-my-opencode@latest"

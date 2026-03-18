@@ -16,6 +16,8 @@ cursor-style-blink=true
 cursor-click-to-move = true
 mouse-hide-while-typing = false
 
+# keybinds
+
 # theme
 palette=0=#000000
 palette=1=#ec9346
