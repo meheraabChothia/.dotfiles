@@ -10,6 +10,14 @@ alias xx="xdg-open"
 alias key="echo $meh_dev|clip"
 alias rm='rm -i'
 
+# Docker Aliases
+alias docker-kill-all="docker stop $(docker ps -a --format "{{.Names}}")"
+
+# Script Runners
+export scripts_dir="$HOME/scripts"
+alias mock-up="sh ${scripts_dir}/mock-up.sh"
+alias lock="sh ${scripts_dir}/lock.sh"
+
 # Aider Aliases
 alias aider-claude="aider --model openrouter/anthropic/claude-opus-4.5 --dark-mode"
 alias aider="aider --dark-mode"
