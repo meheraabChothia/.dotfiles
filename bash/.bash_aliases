@@ -16,6 +16,7 @@ alias docker-kill-all="docker stop $(docker ps -a --format "{{.Names}}")"
 # Script Runners
 export scripts_dir="$HOME/scripts"
 alias mock-up="sh ${scripts_dir}/mock-up.sh"
+alias mock-down="sh ${scripts_dir}/mock-down.sh"
 alias lock="sh ${scripts_dir}/lock.sh"
 
 # Aider Aliases
