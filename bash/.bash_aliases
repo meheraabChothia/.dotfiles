@@ -9,6 +9,8 @@ alias cwd="pwd|clip"
 alias xx="xdg-open"
 alias key="echo $meh_dev|clip"
 alias rm='rm -i'
+alias du='du -hs'
+alias nivm='nvim'
 
 # Docker Aliases
 alias docker-kill-all="docker stop $(docker ps -a --format "{{.Names}}")"
