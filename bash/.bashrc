@@ -137,10 +137,10 @@ export PATH=$PATH:/usr/local/go/bin
 source ~/.bash_secrets
 source ~/.bash_aliases
 
-fortune | cowsay
-pokemon-colorscripts -r
+#fortune | cowsay
+#pokemon-colorscripts -r
 
-source ~/.bash_secret
+#source ~/.bash_secret
 
 export ANDROID_HOME=$HOME/Android
 export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
