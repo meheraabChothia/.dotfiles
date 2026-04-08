@@ -11,6 +11,7 @@ alias key="echo $meh_dev|clip"
 alias rm='rm -i'
 alias du='du -hs'
 alias nivm='nvim'
+alias mouseless='sudo $GOPATH/bin/mouseless'
 
 # Docker Aliases
 alias docker-kill-all="docker stop $(docker ps -a --format "{{.Names}}")"
