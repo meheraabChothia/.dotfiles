@@ -167,3 +167,9 @@ export NVM_DIR="$HOME/.nvm"
 
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
+# Install Ruby Gems to ~/gems
+export GEM_HOME="$HOME/gems"
+export PATH="$HOME/gems/bin:$PATH"
+
+export EDITOR="nvim"
+export VISUAL="nvim"

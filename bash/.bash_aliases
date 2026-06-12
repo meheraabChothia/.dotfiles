@@ -12,6 +12,8 @@ alias rm='rm -i'
 alias du='du -hs'
 alias nivm='nvim'
 alias mouseless='sudo $GOPATH/bin/mouseless'
+alias scheme='mit-scheme --quite < '
+alias files="yazi"
 
 # Docker Aliases
 alias docker-kill-all="docker stop $(docker ps -a --format "{{.Names}}")"
@@ -54,3 +56,5 @@ alias gar="garchomp"
 alias mcp_dir="echo '~/Documents/Research-Lab/SIG_AI/MCP_enlight360/' | clip"
 alias mcp-inspector="npx @modelcontextprotocol/inspector"
 alias minecraft='/home/meheraab/Downloads/delete/Minecraft/UltimMC-Launcher-Linux64/UltimMC/UltimMC.sh'
+alias star-wars="telnet towel.blinkenlights.nl"
+alias no="curl https://naas.isalman.dev/no"
