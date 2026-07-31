@@ -15,6 +15,12 @@ alias mouseless='sudo $GOPATH/bin/mouseless'
 alias scheme='mit-scheme --quite < '
 alias files="yazi"
 
+# lsd commands
+alias ll='lsd -alF'
+alias ls='lsd'
+alias la='ls -A'
+alias l='ls -F'
+
 # Docker Aliases
 alias docker-kill-all="docker stop $(docker ps -a --format "{{.Names}}")"
 
@@ -45,7 +51,8 @@ alias ttmux="nvim ~/.tmux.conf"
 alias tmux-attach='tmux attach -t'
 
 # MISC Aliases
-alias gay='python /home/meheraab/cool/cool.py'
+alias gay='python ~/Documents/proj/cool/rainbow.py'
+alias cool='python ~/Documents/proj/cool/cool.py'
 alias new_gay='python ~/new_cool/new_cool.py'
 alias dude="echo WHAT?!"
 alias fuck='echo Fuck YOU!!!'
