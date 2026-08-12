@@ -20,6 +20,7 @@ alias ll='lsd -alF'
 alias ls='lsd'
 alias la='ls -A'
 alias l='ls -F'
+alias sl='ls'
 
 # Docker Aliases
 alias docker-kill-all="docker stop $(docker ps -a --format "{{.Names}}")"
