@@ -8,6 +8,7 @@ alias clip="xclip -selection clipboard;echo Copied!"
 alias cwd="pwd|clip"
 alias xx="xdg-open"
 alias key="echo $meh_dev|clip"
+alias rm="sudo rm"
 alias rm='rm -i'
 alias du='du -hs'
 alias nivm='nvim'
@@ -16,8 +17,9 @@ alias scheme='mit-scheme --quite < '
 alias files="yazi"
 
 # lsd commands
-alias ll='lsd -alF'
-alias ls='lsd'
+# alias ls='lsd'
+
+alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -F'
 alias sl='ls'
