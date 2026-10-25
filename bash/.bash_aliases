@@ -12,9 +12,10 @@ alias rm="sudo rm"
 alias rm='rm -i'
 alias du='du -hs'
 alias nivm='nvim'
-alias mouseless='sudo $GOPATH/bin/mouseless'
+alias mouseless='sudo ~/go/bin/mouseless -c ~/.config/mouseless/config.yaml'
 alias scheme='mit-scheme --quite < '
 alias files="yazi"
+alias kbat="~/aula-settings/battery.py"
 
 # lsd commands
 # alias ls='lsd'
